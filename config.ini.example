@@ -1,0 +1,13 @@
+[Github]
+DOMAIN = github.com
+GHE_ACCESS_TOKEN = <token>
+ORGS = ["some-org"]
+excluded_repos = ['org/ignored_repo']
+[Snyk]
+SNYK_API_TOKEN = <token>
+SNYK_ORG_ID = <uuid>
+SNYK_INTEGRATION_ID = <uuid>
+[Slack]
+webhook_alerts = https://hooks.slack.com/services/HOOK
+[Debug]
+debug = False

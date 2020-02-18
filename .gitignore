@@ -1,0 +1,8 @@
+bin
+build
+temp
+.vscode
+include
+lib
+.idea
+config.ini
